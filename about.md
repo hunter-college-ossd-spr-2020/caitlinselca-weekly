@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+My name is Caitlin Selca. I am a student at Hunter College. I am majoring in Computer Science with a minor in Math.
 
 ### More Information
 
