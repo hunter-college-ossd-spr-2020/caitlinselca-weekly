@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+Directly reflecting the nature of my degree, I am extremely interested in the tech field and have a genuine passion for problem-solving and high-level mathematical problems.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time, I am intrigued by various topics and love learning new information; this includes, but is not limited to, film, music, and sports.
 
